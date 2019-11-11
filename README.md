@@ -2,7 +2,7 @@
 
 This is a PyTorch implementation for [Graphical Contrastive Losses for Scene Graph Parsing, CVPR2019](https://arxiv.org/abs/1903.02728).
 
-**Warning:** This is forked from [Nvidia's official repository](https://github.com/NVIDIA/ContrastiveLosses4VRD) and may not be consistent with that repo.
+**Warning:** This is forked from [Nvidia's official repository](https://github.com/NVIDIA/ContrastiveLosses4VRD) and may be out-of-date. Please refer to that official repository for latest updates.
 
 ## Cloning
 ```
